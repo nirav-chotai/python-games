@@ -1,5 +1,5 @@
 '''
-Created on Oct 18, 2014
+Created on Oct 19, 2014
 Mini-project # 4: "Pong: The Game" 
 Python MOOC @ Coursera
 @author: nirav.chotai
